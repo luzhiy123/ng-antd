@@ -34,7 +34,7 @@
     "lodash": "^4.17.10",
     "ng-annotate-loader": "^0.6.1",
     "ng-annotate-patched": "^1.7.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.0.1",
     "style-loader": "^0.21.0",
     "webpack": "^4.6.0",
